@@ -1,0 +1,59 @@
+body {
+  font-size: 1.25em;
+}
+
+header .navbar {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+header .navbar .nav-link {
+  color: black;
+}
+
+header .navbar .active {
+  border: solid 2px #cd2026;
+  font-weight: 900;
+  background-color: #ccc;
+}
+
+header .navbar .aran-langBar a {
+  color: #000;
+  padding: .5rem 1rem;
+  -webkit-transition: all 0.9s;
+  transition: all 0.9s;
+}
+
+header .navbar .aran-langBar a:hover, header .navbar .aran-langBar a:focus {
+  text-decoration: none;
+}
+
+header .navbar .aran-langBar a:link:hover, header .navbar .aran-langBar a:link:focus {
+  border: solid 2px #cd2026;
+  padding: 15px;
+  font-size: 1.4rem;
+}
+
+header .navbar-brand {
+  font-size: 2.5em;
+  color: #000;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+header .navbar-brand:hover, header .navbar-brand:focus {
+  border: solid 2px #cd2026;
+  padding: 8px;
+  background-color: #eee;
+}
+
+h1, h2, h3, h4 {
+  margin-top: 75px;
+}
+
+main {
+  margin-bottom: 75px;
+}
+/*# sourceMappingURL=styles.css.map */
