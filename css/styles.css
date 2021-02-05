@@ -56,4 +56,8 @@ h1, h2, h3, h4 {
 main {
   margin-bottom: 75px;
 }
+
+main .fa-canadian-maple-leaf {
+  color: #cd2026;
+}
 /*# sourceMappingURL=styles.css.map */
